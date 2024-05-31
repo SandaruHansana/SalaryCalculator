@@ -1,8 +1,9 @@
-# React + Vite
+Welcome to Salary Calculator!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+First Download or clone the whole Salary Calculator project.
 
-Currently, two official plugins are available:
+Then open the downloaded folder using Visual studio code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then type and run npm install in the code terminal incase if node files were missing.
+
+Then type and run npm run dev in the ternimal and run the application using given link.
